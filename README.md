@@ -8,16 +8,15 @@
 
 <p align="center">
 
-  Jogo feito em C, para que vocêpossa se divertir no tempo livre.
-  
-- `Funcionalidade`: ...
+- `Funcionalidade`: Você precisa apenas adicionar 2 placares ( para cada time ), e em seguida o resultado do joogo sera dado.
 - `Copiar/Colar`: ele pode ser facilmente copiado, pra que assim possa ser usado na plataforma da sua esolha seja: Vscode, Sublime,
 Notepad++ e etc...
+  
 </p>
 
 <h2>
 
-Boa diversão! :wink::computer:
+Espero que goste! :wink::computer:
   
 </h2>
 
